@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T8xz
 - 👀 I’m interested in programing world
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning IoT and Pentools 
 - 💞️ I’m looking to collaborate on arduino
 - 📫 How to reach me just email me bro or follow my sosal media
 
